@@ -23,7 +23,8 @@ You can click the Preview link to take a look at your changes.
 <a href="https://twitter.com/rodgerschayuga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodgerschayuga" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/chayuga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chayuga" height="30" width="40" /></a>
 <a href="https://fb.com/senajichayuga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="senajichayuga" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCDxMxuUr5vl6xXpzMCKUrzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucdxmxuur5vl6xxpzmckurzw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucdxmxuur5vl6xxpzmckurzw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucdxmxuur5vl6xxpzmckurzw" height="30" width="40" /></a>
+<a href="https://discord.gg/#3796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#3796" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
