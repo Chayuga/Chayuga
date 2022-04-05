@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Chayuga
+# 👋 Hi, I’m Rodgers Chayuga
 - 👀 I’m interested in [React.js, Node.js, Next.js, Springboot, MySQL] 
 - 🌱 I’m currently learning [React.js, TailwindCSS, Next.js, Firebase, MySQL]
 - 💞️ I’m looking to collaborate on E-cocommerce and UI/UX projects
